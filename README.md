@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 - 🏫 I'm a M2 at INSA de Rennes 🐻. I major in Computer Science👨‍💻 and Data📈.
-- I am insterested in quantum computing and I am an quantum evangelist ⚛️.
+- I am insterested in bleeding edge technologies (such as deep learning 🤖 and quantum information ⚛️).
 - My previous intern is at ARMOR Group as a DevOps engineer ♾️.
 - I am now working at a physics lab at my school studying quantum properties of NV defects 🧑‍🔬.
 
