@@ -5,8 +5,6 @@
 - My previous intern is at ARMOR Group as a DevOps engineer ♾️.
 - I am now working at a physics lab at my school studying quantum properties of NV defects 🧑‍🔬.
 
- 
-
 ### Connect with me:
 
 <a href="https://vuthanhtung2412.github.io/" style="text-decoration: none;">
