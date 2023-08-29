@@ -39,9 +39,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=frinine-front&theme=onedark" />
 </a>    
 <a href="https://github.com/vuthanhtung2412/The-Demo-Game/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/vuthanhtung2412/ODMR-FOTON/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=ODMR-FOTON&theme=synthwave" />
+</a>    
+<a href="https://github.com/vuthanhtung2412/Comptetive-programming/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=Comptetive-programming&theme=dracula" />
 </a>    
