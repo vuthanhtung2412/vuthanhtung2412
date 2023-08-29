@@ -21,30 +21,38 @@
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=vuthanhtung2412&show_icons=true&icon_color=fff&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" alt="vuthanhtung" />
 
+<div style="width: 50%; float: left; height: 100%;">
 <a href="https://github.com/vuthanhtung2412/sudoku-undo-redo">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical" />
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical" />
 </a>    
+
 <a href="https://github.com/vuthanhtung2412/3DCNN-Attention-mechanism/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=3DCNN-Attention-mechanism&theme=merko" />
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=3DCNN-Attention-mechanism&theme=merko" />
 </a>
 
 <a href="https://github.com/vuthanhtung2412/StyleTransferWGNN/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=StyleTransferWGNN&theme=gruvbox" />
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=StyleTransferWGNN&theme=gruvbox" />
 </a>    
-<a href="https://github.com/vuthanhtung2412/archeometal/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=archeometal&theme=dark" />
-</a>
 
+<a href="https://github.com/vuthanhtung2412/archeometal/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=archeometal&theme=dark" />
+</a>
+</div>
+
+<div style="width: 50%; float: left; height: 100%;">
 <a href="https://github.com/vuthanhtung2412/frinine-front">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=frinine-front&theme=onedark" />
-</a>    
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=frinine-front&theme=onedark" />
+</a> 
+
 <a href="https://github.com/vuthanhtung2412/The-Demo-Game/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game&theme=highcontrast" />
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/vuthanhtung2412/ODMR-FOTON/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=ODMR-FOTON&theme=synthwave" />
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=ODMR-FOTON&theme=synthwave" />
 </a>    
+
 <a href="https://github.com/vuthanhtung2412/Comptetive-programming/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=Comptetive-programming&theme=dracula" />
-</a>    
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=Comptetive-programming&theme=dracula" />
+</a>
+</div>
