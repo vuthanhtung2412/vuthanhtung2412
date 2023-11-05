@@ -1,10 +1,10 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 
 ### 👨‍💻 BIO 👨‍💻:
-- 🏫 I'm a M2 at INSA de Rennes 🐻. I major in Computer Science👨‍💻 and Data📈.
-- I am insterested in bleeding edge technologies (such as deep learning 🤖 and quantum information ⚛️).
+- 🏫 I'm a M2 at INSA de Rennes 🐻. I major in Computer Science👨‍💻 and Cloud Computing☁️.
+- I am a bleeding edge technologies enthusiast (such technologies are deep learning 🤖 and quantum information ⚛️).
 - My previous intern is at ARMOR Group as a DevOps engineer ♾️.
-- I am now working at a physics lab at my school studying quantum properties of NV defects 🧑‍🔬.
+- I worked at a physics lab at my school studying quantum properties of NV defects 🧑‍🔬.
 
 ### Connect with me:
 
