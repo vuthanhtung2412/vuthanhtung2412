@@ -1,7 +1,9 @@
 <h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 
 ### 👨‍💻 BIO 👨‍💻:
-- I major in Big Data👨‍💻 and Cloud Computing☁️.
+- Software Engineer with a strong product mindset, passionate about building reliable and user-centric systems.
+- I care deeply about developer experience and love creating tools that make engineering teams faster and happier.
+- Oh I use Neovim btw 🤓
 
 ### Connect with me:
 
@@ -21,44 +23,36 @@
 
 <table>
 <tr>
-<td>
-<a href="https://github.com/vuthanhtung2412/QuizzHero">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=QizzHero&theme=catpuccin"/>
-</a>    
+<td>  
 
-<a href="https://github.com/vuthanhtung2412/sudoku-undo-redo">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical"/>
-</a>    
+<a href="https://github.com/vuthanhtung2412/QuizzHero/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=QuizzHero&theme=onedark"/>
+</a>  
+
+<a href="https://github.com/vuthanhtung2412/The-Demo-Game/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game&theme=highcontrast" />
+</a> 
 
 <a href="https://github.com/vuthanhtung2412/3DCNN-Attention-mechanism/">
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=3DCNN-Attention-mechanism&theme=merko" />
 </a>
 
-<a href="https://github.com/vuthanhtung2412/StyleTransferWGNN/">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=StyleTransferWGNN&theme=gruvbox" />
-</a>    
+ 
+</td>
+
+<td>
+<a href="https://github.com/vuthanhtung2412/sudoku-undo-redo">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical"/>
+</a>     
 
 <a href="https://github.com/vuthanhtung2412/archeometal/">
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=archeometal&theme=dark" />
 </a>
-</td>
 
-<td>
-<a href="https://github.com/vuthanhtung2412/frinine-front">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=frinine-front&theme=onedark" />
-</a> 
+<a href="https://github.com/vuthanhtung2412/StyleTransferWGNN/">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=StyleTransferWGNN&theme=gruvbox" />
+</a>   
 
-<a href="https://github.com/vuthanhtung2412/The-Demo-Game/">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=The-Demo-Game&theme=highcontrast" />
-</a>
-
-<a href="https://github.com/vuthanhtung2412/ODMR-FOTON/">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=ODMR-FOTON&theme=synthwave" />
-</a>    
-
-<a href="https://github.com/vuthanhtung2412/Comptetive-programming/">
-  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=Comptetive-programming&theme=dracula" />
-</a>
 </td>
 </tr>
 </table>
@@ -68,10 +62,11 @@
 <h1 align="center">⚡⚡TECHSTACK⚡⚡</h1>
 
 ### Web:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> 
 
 ### Languages :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40"/> 
 
 ### Data and AI tools:    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40"/> <img src="./spark_icon.png" height="40"/>
