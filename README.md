@@ -22,6 +22,10 @@
 <table>
 <tr>
 <td>
+<a href="https://github.com/vuthanhtung2412/QuizzHero">
+  <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=QizzHero&theme=catpuccin"/>
+</a>    
+
 <a href="https://github.com/vuthanhtung2412/sudoku-undo-redo">
   <img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vuthanhtung2412&repo=sudoku-undo-redo&theme=radical"/>
 </a>    
